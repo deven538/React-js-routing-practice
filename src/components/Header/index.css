@@ -1,0 +1,28 @@
+/* Write your CSS code here */
+
+.header-container {
+  background-color: transparent;
+  margin: 35px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo-and-title-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.logo {
+  height: 30px;
+}
+
+.title {
+  font-size: 26px;
+  font-weight: 500;
+}
+
+.route-link {
+  margin-right: 8px;
+}
